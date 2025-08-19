@@ -12,7 +12,7 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 ![alt text](https://github.com/Agooll007/Avetisov_nikolay-8.3-GitLab-hw/blob/main/skrin1.png)
-
+![alt text](https://github.com/Agooll007/Avetisov_nikolay-8.3-GitLab-hw/blob/main/skrin3.png)
 ---
 
 ### Задание 2
